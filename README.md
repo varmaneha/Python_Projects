@@ -14,4 +14,6 @@ Cards are counted-- number are number--jack, queen and king each count as 10 and
 when your score is equal to dealer score it is draw 
 if the total is below 16 then they must take an another card. 
 -->
+9) Number_Guessing_Project
+10) Higher_Lower_Game
 
